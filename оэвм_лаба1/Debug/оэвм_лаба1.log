@@ -1,0 +1,6 @@
+﻿  оэвм_лаба1.cpp
+C:\Users\snt_a\source\repos\оэвм_лаба1\оэвм_лаба1.cpp(55,14): warning C4244: =: преобразование "double" в "unsigned int", возможна потеря данных
+C:\Users\snt_a\source\repos\оэвм_лаба1\оэвм_лаба1.cpp(65,13): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\snt_a\source\repos\оэвм_лаба1\оэвм_лаба1.cpp(112,13): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\snt_a\source\repos\оэвм_лаба1\оэвм_лаба1.cpp(140,14): warning C4244: =: преобразование "double" в "unsigned int", возможна потеря данных
+  оэвм_лаба1.vcxproj -> C:\Users\snt_a\source\repos\оэвм_лаба1\Debug\оэвм_лаба1.exe

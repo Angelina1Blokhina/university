@@ -1,0 +1,3 @@
+﻿  as_lab2.0.cpp
+C:\Users\snt_a\source\repos\as_lab2.0\as_lab2.0.cpp(180,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  as_lab2.0.vcxproj -> C:\Users\snt_a\source\repos\as_lab2.0\Debug\as_lab2.0.exe

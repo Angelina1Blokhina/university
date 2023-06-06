@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29403.142
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "kol_dm", "kol_dm.vcxproj", "{5804A1AC-A55F-48A4-A7AF-33347274EBC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5804A1AC-A55F-48A4-A7AF-33347274EBC1}.Debug|x64.ActiveCfg = Debug|x64
+		{5804A1AC-A55F-48A4-A7AF-33347274EBC1}.Debug|x64.Build.0 = Debug|x64
+		{5804A1AC-A55F-48A4-A7AF-33347274EBC1}.Debug|x86.ActiveCfg = Debug|Win32
+		{5804A1AC-A55F-48A4-A7AF-33347274EBC1}.Debug|x86.Build.0 = Debug|Win32
+		{5804A1AC-A55F-48A4-A7AF-33347274EBC1}.Release|x64.ActiveCfg = Release|x64
+		{5804A1AC-A55F-48A4-A7AF-33347274EBC1}.Release|x64.Build.0 = Release|x64
+		{5804A1AC-A55F-48A4-A7AF-33347274EBC1}.Release|x86.ActiveCfg = Release|Win32
+		{5804A1AC-A55F-48A4-A7AF-33347274EBC1}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25411B03-536E-4E4B-AB49-050575BE72D6}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+﻿  lab4.cpp
+C:\Users\snt_a\source\repos\lab4\lab4\lab4.cpp(16,6): warning C4101: k: неиспользованная локальная переменная
+C:\Users\snt_a\source\repos\lab4\lab4\lab4.cpp(254,28): warning C4101: l: неиспользованная локальная переменная
+C:\Users\snt_a\source\repos\lab4\lab4\lab4.cpp(254,24): warning C4101: qu: неиспользованная локальная переменная
+  lab4.vcxproj -> C:\Users\snt_a\source\repos\lab4\Debug\lab4.exe

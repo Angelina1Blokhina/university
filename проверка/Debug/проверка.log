@@ -1,0 +1,4 @@
+﻿  проверка.cpp
+C:\Users\snt_a\source\repos\проверка\проверка.cpp(53,16): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\snt_a\source\repos\проверка\проверка.cpp(64,20): warning C4018: <: несоответствие типов со знаком и без знака
+  проверка.vcxproj -> C:\Users\snt_a\source\repos\проверка\Debug\проверка.exe

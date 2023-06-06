@@ -1,0 +1,4 @@
+﻿  tryagain.cpp
+C:\Users\snt_a\source\repos\tryagain\tryagain\tryagain.cpp(30,6): warning C4804: <: небезопасное использование типа "bool" в операции
+C:\Users\snt_a\source\repos\tryagain\tryagain\tryagain.cpp(30,43): warning C4804: <: небезопасное использование типа "bool" в операции
+  tryagain.vcxproj -> C:\Users\snt_a\source\repos\tryagain\Debug\tryagain.exe

@@ -1,0 +1,6 @@
+﻿  kol_dm.cpp
+C:\Users\snt_a\source\repos\kol_dm\kol_dm.cpp(515,6): warning C4101: m: неиспользованная локальная переменная
+C:\Users\snt_a\source\repos\kol_dm\kol_dm.cpp(761,33): warning C4101: sign_Da: неиспользованная локальная переменная
+C:\Users\snt_a\source\repos\kol_dm\kol_dm.cpp(777,34): warning C4101: sign_Da: неиспользованная локальная переменная
+C:\Users\snt_a\source\repos\kol_dm\kol_dm.cpp(2498,13): warning C4101: k1: неиспользованная локальная переменная
+  kol_dm.vcxproj -> C:\Users\snt_a\source\repos\kol_dm\Debug\kol_dm.exe

@@ -1,0 +1,10 @@
+﻿  mnogochlen.cpp
+C:\Users\snt_a\source\repos\mnogochlen\mnogochlen.cpp(429,6): warning C4101: m: неиспользованная локальная переменная
+C:\Users\snt_a\source\repos\mnogochlen\mnogochlen.cpp(500,15): warning C4804: -: небезопасное использование типа "bool" в операции
+C:\Users\snt_a\source\repos\mnogochlen\mnogochlen.cpp(522,14): warning C4305: =: усечение из "int" в "bool"
+C:\Users\snt_a\source\repos\mnogochlen\mnogochlen.cpp(635,28): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\snt_a\source\repos\mnogochlen\mnogochlen.cpp(668,30): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\snt_a\source\repos\mnogochlen\mnogochlen.cpp(720,27): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\snt_a\source\repos\mnogochlen\mnogochlen.cpp(796,27): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\snt_a\source\repos\mnogochlen\mnogochlen.cpp(825,29): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+  mnogochlen.vcxproj -> C:\Users\snt_a\source\repos\mnogochlen\Debug\mnogochlen.exe

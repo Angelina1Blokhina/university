@@ -1,0 +1,4 @@
+﻿  as_lab2.cpp
+C:\Users\snt_a\source\repos\as_lab2\as_lab2.cpp(70,33): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\snt_a\source\repos\as_lab2\as_lab2.cpp(343,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  as_lab2.vcxproj -> C:\Users\snt_a\source\repos\as_lab2\Debug\as_lab2.exe

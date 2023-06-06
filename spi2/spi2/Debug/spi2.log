@@ -1,0 +1,5 @@
+﻿  spi2.cpp
+C:\Users\snt_a\source\repos\spi2\spi2\spi2.cpp(154,26): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\snt_a\source\repos\spi2\spi2\spi2.cpp(277,27): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\snt_a\source\repos\spi2\spi2\spi2.cpp(394,26): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+  spi2.vcxproj -> C:\Users\snt_a\source\repos\spi2\Debug\spi2.exe

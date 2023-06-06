@@ -1,0 +1,3 @@
+﻿  матстат.cpp
+C:\Users\snt_a\source\repos\матстат\матстат.cpp(137,9): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  матстат.vcxproj -> C:\Users\snt_a\source\repos\матстат\Debug\матстат.exe

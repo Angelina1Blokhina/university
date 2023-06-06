@@ -1,0 +1,4 @@
+﻿  курсач2.0.cpp
+C:\Users\snt_a\source\repos\курсач2.0\курсач2.0.cpp(65,11): warning C4101: y: неиспользованная локальная переменная
+C:\Users\snt_a\source\repos\курсач2.0\курсач2.0.cpp(65,8): warning C4101: x: неиспользованная локальная переменная
+  курсач2.0.vcxproj -> C:\Users\snt_a\source\repos\курсач2.0\Debug\курсач2.0.exe
